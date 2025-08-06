@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there I am Gonçalo Pereira 👋
+
+- 🔭 I’m currently studying on Polytechnic Institute of Viana do Castelo
+- 🌱 I’m currently graduating in Geoinformatics and Environmental Engineering
+- 📫 How to reach me: pereira.goncalo@ipvc.pt or gjbp04@gmail.com
+- ⚡ Fun fact: If you see 'Made in Quintiães,' it might have been crafted by me.
 
 <!--
 **pereira-barbosa-goncalo/pereira-barbosa-goncalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
