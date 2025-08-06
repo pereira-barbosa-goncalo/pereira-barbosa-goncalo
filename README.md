@@ -1,21 +1,15 @@
-## Hi there I am Gonçalo Pereira 👋
+# Hi there I am Gonçalo Pereira 👋
 
 - 🔭 I’m currently studying on Polytechnic Institute of Viana do Castelo
 - 🌱 I’m currently graduating in Geoinformatics and Environmental Engineering
 - 📫 How to reach me: pereira.goncalo@ipvc.pt or gjbp04@gmail.com
 - ⚡ Fun fact: If you see 'Made in Quintiães,' it might have been crafted by me.
 
-<!--
-**pereira-barbosa-goncalo/pereira-barbosa-goncalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here on GitHub, I have published the following:
+- **Drastic :**
+  - The DRASTIC is a QGIS plugin designed to evaluate the potential pollution risk of groundwater in a specific area.
+- **Regadios tradicionais de Quintiães :**
+  - Registration and computerization of the management of traditional irrigation systems in the parish of Quintiães. aims to document and computerize traditional irrigation systems, ensuring the preservation and dissemination of knowledge associated with historical water management. The initiative comprises three fundamental axes:
+    - inventory and systematization of water management methods used in local irrigation;
+    - development of a Python application for recording and consulting collected data;
+    - design of a simple digital platform that allows for the public availability of information and contributes to the appreciation and longevity of this intangible heritage.
