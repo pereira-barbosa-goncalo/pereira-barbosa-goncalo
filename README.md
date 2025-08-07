@@ -3,7 +3,7 @@
 - 🎓 I’m currently studying on Polytechnic Institute of Viana do Castelo
 - 🔭 I’m currently graduating in Geoinformatics and Environmental Engineering
 - 📫 How to reach me: pereira.goncalo@ipvc.pt or gjbp04@gmail.com
-- ⚡ Fun fact: If you see 'Made in Quintiães,' it might have been crafted by me.
+- ⚡ Fun fact: If you see 'Made in Quintiães' it might have been crafted by me.
 
 ## Here on GitHub, I have published the following:
 - [**Drastic :**](https://github.com/pereira-barbosa-goncalo/Drastic)
