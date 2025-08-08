@@ -1,7 +1,7 @@
 # Hi there I am Gonçalo Pereira 👋
 
-- 🎓 I’m currently studying on Polytechnic Institute of Viana do Castelo
-- 🔭 I’m currently graduating in Geoinformatics and Environmental Engineering
+- 🎓 I’m currently graduating in Polytechnic Institute of Viana do Castelo
+- 🔭 I’m currently studying on BSc Geoinformatics and Environmental Engineering
 - 📫 How to reach me: pereira.goncalo@ipvc.pt or gjbp04@gmail.com
 - ⚡ Fun fact: If you see 'Made in Quintiães' it might have been crafted by me.
 
